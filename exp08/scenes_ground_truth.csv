@@ -1,0 +1,9 @@
+scene_id,name,start_frame,end_frame,start_s,end_s,is_key
+S1,Title card,0,19,0.0,2.0,False
+S2,Audience waiting,20,49,2.0,5.0,False
+S3,Robot race,50,89,5.0,9.0,True
+S4,Audience again,90,119,9.0,12.0,False
+S5,Drone light show,120,159,12.0,16.0,True
+S6,Robot race replay,160,189,16.0,19.0,False
+S7,Prize ceremony,190,219,19.0,22.0,True
+S8,Credits,220,239,22.0,24.0,False

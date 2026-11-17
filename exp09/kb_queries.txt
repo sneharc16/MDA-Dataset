@@ -1,0 +1,8 @@
+Q1 | convolutional neural network for image classification
+Q2 | sequence models for text and speech
+Q3 | how to prevent overfitting in deep learning
+Q4 | search engine ranking with inverted index and tf-idf
+Q5 | frequency spectrum of a signal
+Q6 | wireless communication and modulation
+Q7 | unsupervised clustering and dimensionality reduction
+Q8 | neural network training optimiser

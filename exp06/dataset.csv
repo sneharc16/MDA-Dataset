@@ -1,0 +1,25 @@
+text,audio,label
+i am feeling low today,emotion_audio/sad_0.wav,sad
+nothing seems to go right,emotion_audio/sad_1.wav,sad
+i miss how things used to be,emotion_audio/sad_2.wav,sad
+i feel quite empty lately,emotion_audio/sad_3.wav,sad
+it has been a heavy week,emotion_audio/sad_4.wav,sad
+i do not want to talk much,emotion_audio/sad_5.wav,sad
+the meeting is at four,emotion_audio/neutral_0.wav,neutral
+please send me the file,emotion_audio/neutral_1.wav,neutral
+i will reach by evening,emotion_audio/neutral_2.wav,neutral
+the report is almost done,emotion_audio/neutral_3.wav,neutral
+there is a class tomorrow,emotion_audio/neutral_4.wav,neutral
+let me check and confirm,emotion_audio/neutral_5.wav,neutral
+this is completely unacceptable,emotion_audio/angry_0.wav,angry
+i am fed up with this,emotion_audio/angry_1.wav,angry
+stop wasting my time,emotion_audio/angry_2.wav,angry
+why was i not informed,emotion_audio/angry_3.wav,angry
+this is the third time now,emotion_audio/angry_4.wav,angry
+i will not tolerate this,emotion_audio/angry_5.wav,angry
+i am so happy today,emotion_audio/happy_0.wav,happy
+this is absolutely wonderful,emotion_audio/happy_1.wav,happy
+we finally did it,emotion_audio/happy_2.wav,happy
+what a brilliant result,emotion_audio/happy_3.wav,happy
+i am thrilled about this,emotion_audio/happy_4.wav,happy
+today has been lovely,emotion_audio/happy_5.wav,happy

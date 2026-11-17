@@ -1,0 +1,56 @@
+1
+00:00:00,000 --> 00:00:02,000
+Welcome to Tech Fest 2026 at IGDTUW Delhi.
+
+2
+00:00:02,000 --> 00:00:03,500
+The audience is settling in.
+
+3
+00:00:03,500 --> 00:00:05,000
+Everyone is waiting for the show to begin.
+
+4
+00:00:05,000 --> 00:00:07,000
+The robot race begins with three autonomous bots built by second year students.
+
+5
+00:00:07,000 --> 00:00:09,000
+The red line-following robot takes the lead using a PID controller and infrared sensors.
+
+6
+00:00:09,000 --> 00:00:10,500
+The crowd is cheering.
+
+7
+00:00:10,500 --> 00:00:12,000
+Everyone is enjoying the event.
+
+8
+00:00:12,000 --> 00:00:14,000
+Next, sixteen drones perform a synchronised light show programmed with swarm algorithms.
+
+9
+00:00:14,000 --> 00:00:16,000
+The drones form a rotating ring controlled over a single wireless ground station.
+
+10
+00:00:16,000 --> 00:00:17,500
+Here is the replay of the race finish from the trackside camera.
+
+11
+00:00:17,500 --> 00:00:19,000
+The red line-following robot overtakes on the final curve and crosses the finish line two seconds ahead, a new fest record.
+
+12
+00:00:19,000 --> 00:00:20,500
+Team Circuit Queens wins the first prize of fifty thousand rupees for the robot race.
+
+13
+00:00:20,500 --> 00:00:22,000
+The drone team receives a special award for innovation from the Vice Chancellor.
+
+14
+00:00:22,000 --> 00:00:24,000
+Thank you for watching.
+

@@ -1,0 +1,801 @@
+image_file,caption,shape,colour,size,position,split
+img_0000.png,a huge scarlet round shape at the centre,circle,red,large,centre,train
+img_0001.png,"in the middle, a tiny red round shape",circle,red,small,centre,train
+img_0002.png,large scarlet disc,circle,red,large,left,train
+img_0003.png,"on the left, a small red disc",circle,red,small,left,train
+img_0004.png,there is a crimson circle towards the right,circle,red,small,right,train
+img_0005.png,a large crimson round shape at the left side,circle,red,large,left,train
+img_0006.png,a huge red disc on the right,circle,red,large,right,train
+img_0007.png,there is a red round shape towards the right,circle,red,large,right,train
+img_0008.png,"towards the right, a little red round shape",circle,red,small,right,train
+img_0009.png,"picture of a red circle, tiny, on the left",circle,red,small,left,test
+img_0010.png,there is a scarlet circle at the centre,circle,red,large,centre,train
+img_0011.png,a huge circle in red at the right side,circle,red,large,right,train
+img_0012.png,a big disc in crimson at the left side,circle,red,large,left,train
+img_0013.png,"at the centre, a huge scarlet round shape",circle,red,large,centre,test
+img_0014.png,a big disc in crimson in the centre,circle,red,large,centre,train
+img_0015.png,"picture of a red disc, small, in the middle",circle,red,small,centre,train
+img_0016.png,tiny crimson disc,circle,red,small,right,train
+img_0017.png,"picture of a red disc, large, on the left",circle,red,large,left,train
+img_0018.png,"picture of a red round shape, little, towards the left",circle,red,small,left,train
+img_0019.png,a tiny red circle in the centre,circle,red,small,centre,train
+img_0020.png,there is a scarlet circle towards the left,circle,red,large,left,train
+img_0021.png,there is a red round shape on the right,circle,red,large,right,train
+img_0022.png,there is a scarlet circle at the right side,circle,red,large,right,train
+img_0023.png,"on the right, a large crimson circle",circle,red,large,right,train
+img_0024.png,huge scarlet circle,circle,red,large,centre,train
+img_0025.png,a little disc in crimson in the centre,circle,red,small,centre,train
+img_0026.png,a little scarlet round shape towards the right,circle,red,small,right,train
+img_0027.png,large crimson round shape,circle,red,large,right,train
+img_0028.png,there is a scarlet circle towards the right,circle,red,large,right,train
+img_0029.png,"in the middle, a little scarlet circle",circle,red,small,centre,train
+img_0030.png,small red disc,circle,red,small,right,train
+img_0031.png,a small round shape in red at the left side,circle,red,small,left,train
+img_0032.png,"picture of a green disc, little, at the centre",circle,green,small,centre,train
+img_0033.png,"on the right, a big emerald circle",circle,green,large,right,train
+img_0034.png,"picture of a green circle, little, in the middle",circle,green,small,centre,test
+img_0035.png,"on the right, a little emerald round shape",circle,green,small,right,train
+img_0036.png,a tiny emerald circle on the right,circle,green,small,right,train
+img_0037.png,there is a green disc on the right,circle,green,large,right,train
+img_0038.png,big green disc,circle,green,large,centre,train
+img_0039.png,there is a emerald circle at the left side,circle,green,small,left,train
+img_0040.png,there is a emerald disc on the right,circle,green,small,right,train
+img_0041.png,a small green circle at the left side,circle,green,small,left,train
+img_0042.png,a little green disc towards the right,circle,green,small,right,train
+img_0043.png,a huge disc in emerald towards the left,circle,green,large,left,train
+img_0044.png,"on the right, a large green disc",circle,green,large,right,train
+img_0045.png,small green circle,circle,green,small,left,train
+img_0046.png,tiny green round shape,circle,green,small,left,train
+img_0047.png,a huge disc in emerald at the left side,circle,green,large,left,train
+img_0048.png,huge emerald round shape,circle,green,large,right,train
+img_0049.png,"picture of a green round shape, huge, towards the right",circle,green,large,right,train
+img_0050.png,there is a emerald disc towards the right,circle,green,large,right,train
+img_0051.png,"picture of a emerald circle, huge, in the centre",circle,green,large,centre,train
+img_0052.png,"at the centre, a little green circle",circle,green,small,centre,train
+img_0053.png,"picture of a emerald round shape, tiny, in the middle",circle,green,small,centre,test
+img_0054.png,small emerald round shape,circle,green,small,centre,train
+img_0055.png,small emerald disc,circle,green,small,right,train
+img_0056.png,there is a emerald disc on the left,circle,green,small,left,train
+img_0057.png,there is a green round shape in the middle,circle,green,small,centre,test
+img_0058.png,a big disc in green on the left,circle,green,large,left,train
+img_0059.png,"in the centre, a big green round shape",circle,green,large,centre,train
+img_0060.png,"picture of a emerald disc, huge, in the centre",circle,green,large,centre,test
+img_0061.png,huge emerald round shape,circle,green,large,right,test
+img_0062.png,there is a green disc on the left,circle,green,small,left,train
+img_0063.png,there is a emerald disc towards the right,circle,green,large,right,test
+img_0064.png,little blue round shape,circle,blue,small,right,test
+img_0065.png,large azure disc,circle,blue,large,left,train
+img_0066.png,a tiny circle in azure at the right side,circle,blue,small,right,test
+img_0067.png,"towards the left, a large azure disc",circle,blue,large,left,train
+img_0068.png,"picture of a azure disc, small, on the left",circle,blue,small,left,train
+img_0069.png,a little blue circle in the middle,circle,blue,small,centre,train
+img_0070.png,a tiny blue circle in the centre,circle,blue,small,centre,test
+img_0071.png,there is a azure circle at the centre,circle,blue,large,centre,train
+img_0072.png,"picture of a azure disc, large, towards the left",circle,blue,large,left,train
+img_0073.png,"picture of a blue disc, tiny, in the middle",circle,blue,small,centre,train
+img_0074.png,huge azure round shape,circle,blue,large,left,test
+img_0075.png,little blue round shape,circle,blue,small,centre,train
+img_0076.png,a huge disc in blue towards the right,circle,blue,large,right,train
+img_0077.png,big blue round shape,circle,blue,large,centre,train
+img_0078.png,large azure round shape,circle,blue,large,left,train
+img_0079.png,"at the centre, a huge azure disc",circle,blue,large,centre,train
+img_0080.png,big blue circle,circle,blue,large,left,train
+img_0081.png,little azure disc,circle,blue,small,right,train
+img_0082.png,there is a blue disc in the centre,circle,blue,large,centre,train
+img_0083.png,huge azure round shape,circle,blue,large,centre,train
+img_0084.png,there is a azure circle towards the right,circle,blue,large,right,train
+img_0085.png,"picture of a azure round shape, little, at the left side",circle,blue,small,left,train
+img_0086.png,a large azure disc at the left side,circle,blue,large,left,train
+img_0087.png,"in the middle, a little blue round shape",circle,blue,small,centre,train
+img_0088.png,a small azure disc towards the right,circle,blue,small,right,train
+img_0089.png,tiny azure circle,circle,blue,small,left,train
+img_0090.png,a huge round shape in azure towards the left,circle,blue,large,left,train
+img_0091.png,"picture of a azure round shape, huge, on the right",circle,blue,large,right,train
+img_0092.png,"picture of a azure circle, tiny, on the left",circle,blue,small,left,train
+img_0093.png,a small circle in azure at the centre,circle,blue,small,centre,train
+img_0094.png,"in the centre, a small azure circle",circle,blue,small,centre,test
+img_0095.png,"picture of a azure disc, small, at the centre",circle,blue,small,centre,train
+img_0096.png,a little golden round shape at the right side,circle,yellow,small,right,train
+img_0097.png,a huge golden disc on the right,circle,yellow,large,right,train
+img_0098.png,"in the centre, a big yellow disc",circle,yellow,large,centre,test
+img_0099.png,a large round shape in golden towards the right,circle,yellow,large,right,test
+img_0100.png,"at the centre, a big yellow circle",circle,yellow,large,centre,train
+img_0101.png,there is a yellow disc on the left,circle,yellow,small,left,train
+img_0102.png,a large golden disc at the left side,circle,yellow,large,left,train
+img_0103.png,large golden round shape,circle,yellow,large,left,train
+img_0104.png,there is a golden disc at the centre,circle,yellow,large,centre,train
+img_0105.png,"picture of a yellow round shape, little, in the middle",circle,yellow,small,centre,train
+img_0106.png,a big disc in yellow in the centre,circle,yellow,large,centre,train
+img_0107.png,a little golden round shape in the centre,circle,yellow,small,centre,train
+img_0108.png,"in the middle, a tiny yellow disc",circle,yellow,small,centre,train
+img_0109.png,there is a golden round shape at the right side,circle,yellow,large,right,test
+img_0110.png,small golden circle,circle,yellow,small,right,test
+img_0111.png,a small golden circle in the centre,circle,yellow,small,centre,train
+img_0112.png,a huge disc in yellow towards the left,circle,yellow,large,left,train
+img_0113.png,"towards the left, a tiny golden disc",circle,yellow,small,left,train
+img_0114.png,there is a golden round shape on the right,circle,yellow,large,right,train
+img_0115.png,a small golden disc at the right side,circle,yellow,small,right,train
+img_0116.png,there is a yellow circle at the centre,circle,yellow,large,centre,train
+img_0117.png,a small golden disc in the centre,circle,yellow,small,centre,train
+img_0118.png,a little round shape in golden towards the right,circle,yellow,small,right,train
+img_0119.png,"picture of a yellow circle, little, in the centre",circle,yellow,small,centre,train
+img_0120.png,a huge yellow disc at the centre,circle,yellow,large,centre,train
+img_0121.png,"at the right side, a small golden disc",circle,yellow,small,right,train
+img_0122.png,"picture of a yellow circle, small, in the centre",circle,yellow,small,centre,train
+img_0123.png,"picture of a yellow circle, huge, towards the right",circle,yellow,large,right,train
+img_0124.png,a tiny round shape in yellow at the right side,circle,yellow,small,right,train
+img_0125.png,a tiny golden disc at the right side,circle,yellow,small,right,train
+img_0126.png,there is a yellow circle at the centre,circle,yellow,large,centre,train
+img_0127.png,a large round shape in yellow on the right,circle,yellow,large,right,test
+img_0128.png,a small circle in purple in the middle,circle,purple,small,centre,test
+img_0129.png,there is a violet circle towards the left,circle,purple,small,left,train
+img_0130.png,a little purple round shape on the left,circle,purple,small,left,train
+img_0131.png,"in the centre, a tiny purple circle",circle,purple,small,centre,train
+img_0132.png,"at the left side, a little violet circle",circle,purple,small,left,train
+img_0133.png,"picture of a purple circle, little, at the left side",circle,purple,small,left,train
+img_0134.png,"picture of a violet round shape, small, on the left",circle,purple,small,left,train
+img_0135.png,"picture of a purple circle, little, at the left side",circle,purple,small,left,train
+img_0136.png,little violet disc,circle,purple,small,centre,train
+img_0137.png,little violet circle,circle,purple,small,right,train
+img_0138.png,"in the middle, a large violet disc",circle,purple,large,centre,test
+img_0139.png,"on the right, a large violet round shape",circle,purple,large,right,train
+img_0140.png,"picture of a purple disc, little, on the left",circle,purple,small,left,test
+img_0141.png,"picture of a purple circle, large, at the right side",circle,purple,large,right,train
+img_0142.png,a big violet round shape in the middle,circle,purple,large,centre,test
+img_0143.png,there is a purple circle on the right,circle,purple,large,right,train
+img_0144.png,"at the right side, a huge violet circle",circle,purple,large,right,train
+img_0145.png,"picture of a violet round shape, little, at the right side",circle,purple,small,right,train
+img_0146.png,a large circle in purple in the middle,circle,purple,large,centre,train
+img_0147.png,a small purple circle on the left,circle,purple,small,left,train
+img_0148.png,there is a violet disc in the middle,circle,purple,large,centre,test
+img_0149.png,a small round shape in purple towards the right,circle,purple,small,right,train
+img_0150.png,a little disc in violet towards the left,circle,purple,small,left,train
+img_0151.png,"at the centre, a large purple disc",circle,purple,large,centre,train
+img_0152.png,"at the left side, a tiny violet disc",circle,purple,small,left,train
+img_0153.png,there is a violet round shape in the middle,circle,purple,large,centre,test
+img_0154.png,"towards the left, a large purple circle",circle,purple,large,left,train
+img_0155.png,"at the centre, a big purple disc",circle,purple,large,centre,train
+img_0156.png,"picture of a purple round shape, big, towards the right",circle,purple,large,right,train
+img_0157.png,"on the right, a tiny purple disc",circle,purple,small,right,train
+img_0158.png,a big circle in purple at the left side,circle,purple,large,left,train
+img_0159.png,there is a violet disc at the left side,circle,purple,small,left,test
+img_0160.png,"picture of a crimson box, huge, on the right",square,red,large,right,train
+img_0161.png,a small scarlet box on the left,square,red,small,left,train
+img_0162.png,a huge crimson box on the left,square,red,large,left,train
+img_0163.png,a big box in scarlet at the right side,square,red,large,right,train
+img_0164.png,there is a crimson square in the centre,square,red,small,centre,train
+img_0165.png,a tiny box in scarlet towards the left,square,red,small,left,train
+img_0166.png,a little scarlet box at the centre,square,red,small,centre,train
+img_0167.png,a huge red square in the middle,square,red,large,centre,train
+img_0168.png,"picture of a crimson box, huge, towards the right",square,red,large,right,test
+img_0169.png,a small box in scarlet in the middle,square,red,small,centre,train
+img_0170.png,"picture of a red box, tiny, in the centre",square,red,small,centre,train
+img_0171.png,a tiny scarlet square towards the left,square,red,small,left,train
+img_0172.png,"picture of a crimson square, small, in the centre",square,red,small,centre,train
+img_0173.png,"picture of a scarlet box, tiny, in the centre",square,red,small,centre,train
+img_0174.png,a huge crimson square towards the left,square,red,large,left,train
+img_0175.png,small red box,square,red,small,right,train
+img_0176.png,"in the middle, a little scarlet square",square,red,small,centre,train
+img_0177.png,"towards the right, a small crimson box",square,red,small,right,train
+img_0178.png,a little scarlet square at the centre,square,red,small,centre,train
+img_0179.png,"towards the left, a small red square",square,red,small,left,test
+img_0180.png,a tiny box in red towards the right,square,red,small,right,train
+img_0181.png,a tiny square in scarlet in the middle,square,red,small,centre,train
+img_0182.png,"picture of a scarlet box, little, on the right",square,red,small,right,train
+img_0183.png,there is a red square at the right side,square,red,small,right,train
+img_0184.png,"picture of a crimson square, small, at the right side",square,red,small,right,train
+img_0185.png,small red box,square,red,small,centre,train
+img_0186.png,"towards the right, a large crimson square",square,red,large,right,test
+img_0187.png,"in the middle, a tiny scarlet box",square,red,small,centre,train
+img_0188.png,large scarlet box,square,red,large,right,train
+img_0189.png,a big crimson square towards the left,square,red,large,left,train
+img_0190.png,"in the centre, a large crimson square",square,red,large,centre,train
+img_0191.png,"in the centre, a tiny red box",square,red,small,centre,test
+img_0192.png,"at the left side, a tiny green box",square,green,small,left,train
+img_0193.png,a large square in emerald at the right side,square,green,large,right,test
+img_0194.png,"at the left side, a little emerald box",square,green,small,left,train
+img_0195.png,a small green square in the centre,square,green,small,centre,train
+img_0196.png,huge green square,square,green,large,right,train
+img_0197.png,tiny emerald square,square,green,small,right,train
+img_0198.png,"at the left side, a large emerald square",square,green,large,left,train
+img_0199.png,a huge box in emerald at the right side,square,green,large,right,train
+img_0200.png,"picture of a emerald square, large, on the right",square,green,large,right,train
+img_0201.png,"on the left, a big green box",square,green,large,left,train
+img_0202.png,large green box,square,green,large,centre,train
+img_0203.png,there is a emerald box on the right,square,green,large,right,train
+img_0204.png,"picture of a emerald box, tiny, in the centre",square,green,small,centre,test
+img_0205.png,tiny green square,square,green,small,centre,train
+img_0206.png,there is a emerald square at the centre,square,green,small,centre,train
+img_0207.png,a little green square on the left,square,green,small,left,train
+img_0208.png,"picture of a emerald square, tiny, on the left",square,green,small,left,train
+img_0209.png,a large square in green in the centre,square,green,large,centre,test
+img_0210.png,a small green square on the left,square,green,small,left,train
+img_0211.png,huge emerald square,square,green,large,centre,train
+img_0212.png,a small square in green on the right,square,green,small,right,train
+img_0213.png,large green square,square,green,large,left,train
+img_0214.png,there is a emerald square on the left,square,green,small,left,train
+img_0215.png,"picture of a emerald square, small, on the right",square,green,small,right,train
+img_0216.png,there is a green square towards the right,square,green,small,right,train
+img_0217.png,little emerald box,square,green,small,left,test
+img_0218.png,"on the right, a little green box",square,green,small,right,train
+img_0219.png,"picture of a emerald square, tiny, towards the right",square,green,small,right,train
+img_0220.png,a small box in emerald in the centre,square,green,small,centre,test
+img_0221.png,a tiny square in green in the middle,square,green,small,centre,train
+img_0222.png,"on the left, a huge green box",square,green,large,left,test
+img_0223.png,"towards the left, a huge green box",square,green,large,left,test
+img_0224.png,"picture of a blue box, little, on the left",square,blue,small,left,train
+img_0225.png,small blue box,square,blue,small,centre,train
+img_0226.png,a large box in azure on the right,square,blue,large,right,train
+img_0227.png,huge azure box,square,blue,large,right,train
+img_0228.png,a little blue square on the left,square,blue,small,left,train
+img_0229.png,"picture of a azure square, little, on the right",square,blue,small,right,train
+img_0230.png,"picture of a azure square, tiny, at the right side",square,blue,small,right,train
+img_0231.png,small azure square,square,blue,small,left,train
+img_0232.png,"picture of a blue box, tiny, on the right",square,blue,small,right,test
+img_0233.png,a small square in blue towards the left,square,blue,small,left,train
+img_0234.png,big azure square,square,blue,large,right,train
+img_0235.png,"towards the right, a big blue square",square,blue,large,right,train
+img_0236.png,"picture of a azure square, tiny, on the right",square,blue,small,right,test
+img_0237.png,"picture of a blue box, huge, in the middle",square,blue,large,centre,train
+img_0238.png,a little square in blue at the centre,square,blue,small,centre,train
+img_0239.png,there is a blue square towards the right,square,blue,large,right,train
+img_0240.png,a small square in azure on the left,square,blue,small,left,train
+img_0241.png,"picture of a blue square, small, on the right",square,blue,small,right,train
+img_0242.png,a large azure square at the centre,square,blue,large,centre,test
+img_0243.png,"picture of a azure box, large, at the centre",square,blue,large,centre,train
+img_0244.png,a small azure box towards the right,square,blue,small,right,train
+img_0245.png,a huge blue box at the left side,square,blue,large,left,train
+img_0246.png,there is a azure box on the left,square,blue,large,left,train
+img_0247.png,a large square in azure towards the right,square,blue,large,right,train
+img_0248.png,a big box in azure at the left side,square,blue,large,left,test
+img_0249.png,"picture of a blue box, big, at the right side",square,blue,large,right,train
+img_0250.png,a big azure box at the centre,square,blue,large,centre,train
+img_0251.png,"on the right, a huge azure square",square,blue,large,right,test
+img_0252.png,little blue square,square,blue,small,centre,train
+img_0253.png,a big azure box at the centre,square,blue,large,centre,train
+img_0254.png,a little square in azure at the right side,square,blue,small,right,train
+img_0255.png,there is a azure box at the centre,square,blue,large,centre,train
+img_0256.png,there is a golden square towards the left,square,yellow,large,left,train
+img_0257.png,small golden box,square,yellow,small,left,train
+img_0258.png,there is a golden square on the right,square,yellow,small,right,train
+img_0259.png,"picture of a golden square, tiny, towards the left",square,yellow,small,left,test
+img_0260.png,"picture of a yellow square, big, on the right",square,yellow,large,right,train
+img_0261.png,there is a golden square at the left side,square,yellow,small,left,train
+img_0262.png,a large yellow box on the left,square,yellow,large,left,train
+img_0263.png,there is a yellow square at the centre,square,yellow,large,centre,train
+img_0264.png,a large yellow box at the centre,square,yellow,large,centre,train
+img_0265.png,tiny yellow box,square,yellow,small,centre,train
+img_0266.png,tiny yellow square,square,yellow,small,centre,train
+img_0267.png,there is a yellow box in the middle,square,yellow,large,centre,train
+img_0268.png,"picture of a yellow box, tiny, in the middle",square,yellow,small,centre,train
+img_0269.png,huge yellow square,square,yellow,large,centre,train
+img_0270.png,huge yellow square,square,yellow,large,right,test
+img_0271.png,"picture of a yellow box, big, at the centre",square,yellow,large,centre,test
+img_0272.png,"picture of a yellow square, small, towards the right",square,yellow,small,right,train
+img_0273.png,a huge yellow box at the centre,square,yellow,large,centre,train
+img_0274.png,little yellow square,square,yellow,small,right,train
+img_0275.png,a huge yellow box towards the left,square,yellow,large,left,train
+img_0276.png,"picture of a yellow square, large, on the left",square,yellow,large,left,train
+img_0277.png,huge yellow box,square,yellow,large,right,train
+img_0278.png,"picture of a yellow box, big, in the centre",square,yellow,large,centre,train
+img_0279.png,"picture of a golden box, small, in the middle",square,yellow,small,centre,train
+img_0280.png,a big box in yellow at the left side,square,yellow,large,left,train
+img_0281.png,a huge box in yellow in the centre,square,yellow,large,centre,test
+img_0282.png,a large box in golden in the middle,square,yellow,large,centre,train
+img_0283.png,a tiny yellow box in the centre,square,yellow,small,centre,test
+img_0284.png,a large yellow square on the right,square,yellow,large,right,train
+img_0285.png,"towards the right, a small golden box",square,yellow,small,right,test
+img_0286.png,"on the right, a tiny yellow square",square,yellow,small,right,train
+img_0287.png,there is a golden square at the right side,square,yellow,large,right,train
+img_0288.png,there is a purple square in the centre,square,purple,small,centre,train
+img_0289.png,a little purple box on the right,square,purple,small,right,train
+img_0290.png,a small square in purple on the right,square,purple,small,right,train
+img_0291.png,"in the middle, a big purple box",square,purple,large,centre,train
+img_0292.png,"picture of a violet square, little, in the centre",square,purple,small,centre,train
+img_0293.png,tiny purple box,square,purple,small,right,train
+img_0294.png,"on the right, a little purple square",square,purple,small,right,test
+img_0295.png,a little box in violet on the right,square,purple,small,right,train
+img_0296.png,there is a purple box at the right side,square,purple,large,right,test
+img_0297.png,a big violet box at the right side,square,purple,large,right,train
+img_0298.png,"on the left, a huge violet square",square,purple,large,left,train
+img_0299.png,there is a purple box on the right,square,purple,large,right,train
+img_0300.png,"in the middle, a large violet box",square,purple,large,centre,test
+img_0301.png,a small purple box at the centre,square,purple,small,centre,train
+img_0302.png,"in the centre, a huge violet box",square,purple,large,centre,train
+img_0303.png,a huge violet box at the right side,square,purple,large,right,train
+img_0304.png,"picture of a purple box, little, on the right",square,purple,small,right,train
+img_0305.png,there is a purple box at the left side,square,purple,small,left,test
+img_0306.png,tiny purple box,square,purple,small,left,test
+img_0307.png,little violet square,square,purple,small,right,test
+img_0308.png,a big square in purple towards the right,square,purple,large,right,test
+img_0309.png,a huge square in purple on the left,square,purple,large,left,train
+img_0310.png,"picture of a violet square, tiny, at the centre",square,purple,small,centre,train
+img_0311.png,there is a purple box at the right side,square,purple,large,right,train
+img_0312.png,"picture of a purple box, big, towards the left",square,purple,large,left,train
+img_0313.png,big purple box,square,purple,large,left,train
+img_0314.png,there is a violet box towards the right,square,purple,small,right,train
+img_0315.png,large purple box,square,purple,large,right,train
+img_0316.png,small purple square,square,purple,small,left,train
+img_0317.png,there is a purple box on the left,square,purple,small,left,train
+img_0318.png,"picture of a purple square, little, towards the right",square,purple,small,right,train
+img_0319.png,"on the left, a tiny purple square",square,purple,small,left,train
+img_0320.png,a small scarlet three-sided shape at the right side,triangle,red,small,right,train
+img_0321.png,there is a scarlet three-sided shape towards the left,triangle,red,small,left,train
+img_0322.png,"picture of a crimson triangle, little, in the middle",triangle,red,small,centre,train
+img_0323.png,there is a crimson triangle in the centre,triangle,red,large,centre,train
+img_0324.png,there is a scarlet three-sided shape towards the left,triangle,red,large,left,train
+img_0325.png,there is a red three-sided shape towards the left,triangle,red,small,left,train
+img_0326.png,there is a red triangle on the right,triangle,red,small,right,train
+img_0327.png,"towards the left, a big crimson three-sided shape",triangle,red,large,left,train
+img_0328.png,"at the centre, a tiny scarlet triangle",triangle,red,small,centre,test
+img_0329.png,there is a red triangle in the middle,triangle,red,large,centre,train
+img_0330.png,huge scarlet triangle,triangle,red,large,centre,train
+img_0331.png,"picture of a crimson triangle, tiny, at the centre",triangle,red,small,centre,train
+img_0332.png,big scarlet triangle,triangle,red,large,right,train
+img_0333.png,a small three-sided shape in crimson on the left,triangle,red,small,left,train
+img_0334.png,"in the centre, a huge scarlet triangle",triangle,red,large,centre,test
+img_0335.png,"at the centre, a big red three-sided shape",triangle,red,large,centre,train
+img_0336.png,"picture of a crimson three-sided shape, huge, in the centre",triangle,red,large,centre,test
+img_0337.png,there is a scarlet three-sided shape in the centre,triangle,red,small,centre,train
+img_0338.png,tiny red three-sided shape,triangle,red,small,centre,train
+img_0339.png,a little three-sided shape in scarlet in the centre,triangle,red,small,centre,train
+img_0340.png,a little triangle in scarlet at the right side,triangle,red,small,right,train
+img_0341.png,"at the left side, a little crimson triangle",triangle,red,small,left,train
+img_0342.png,tiny scarlet three-sided shape,triangle,red,small,centre,train
+img_0343.png,"on the right, a big crimson triangle",triangle,red,large,right,train
+img_0344.png,a tiny scarlet three-sided shape towards the left,triangle,red,small,left,test
+img_0345.png,a huge red three-sided shape at the right side,triangle,red,large,right,train
+img_0346.png,a little triangle in red on the right,triangle,red,small,right,train
+img_0347.png,little red triangle,triangle,red,small,centre,train
+img_0348.png,there is a crimson three-sided shape at the right side,triangle,red,large,right,train
+img_0349.png,"picture of a scarlet triangle, big, at the centre",triangle,red,large,centre,train
+img_0350.png,"picture of a scarlet three-sided shape, big, towards the right",triangle,red,large,right,train
+img_0351.png,a tiny red triangle in the centre,triangle,red,small,centre,train
+img_0352.png,small emerald triangle,triangle,green,small,centre,train
+img_0353.png,"on the right, a small emerald three-sided shape",triangle,green,small,right,train
+img_0354.png,"at the left side, a small emerald triangle",triangle,green,small,left,train
+img_0355.png,a huge emerald triangle in the centre,triangle,green,large,centre,train
+img_0356.png,a big triangle in green towards the left,triangle,green,large,left,train
+img_0357.png,"in the middle, a tiny green triangle",triangle,green,small,centre,train
+img_0358.png,"at the left side, a little green triangle",triangle,green,small,left,test
+img_0359.png,"at the right side, a large emerald three-sided shape",triangle,green,large,right,train
+img_0360.png,large emerald triangle,triangle,green,large,right,train
+img_0361.png,"picture of a emerald triangle, large, at the centre",triangle,green,large,centre,train
+img_0362.png,large green triangle,triangle,green,large,left,test
+img_0363.png,a tiny green triangle towards the right,triangle,green,small,right,train
+img_0364.png,"picture of a green triangle, large, on the left",triangle,green,large,left,train
+img_0365.png,"on the left, a small emerald triangle",triangle,green,small,left,test
+img_0366.png,there is a green three-sided shape on the left,triangle,green,large,left,train
+img_0367.png,"picture of a green triangle, large, on the left",triangle,green,large,left,test
+img_0368.png,little emerald three-sided shape,triangle,green,small,right,test
+img_0369.png,"towards the left, a big emerald three-sided shape",triangle,green,large,left,train
+img_0370.png,a tiny emerald triangle on the right,triangle,green,small,right,train
+img_0371.png,a little green three-sided shape in the centre,triangle,green,small,centre,train
+img_0372.png,a small three-sided shape in emerald towards the left,triangle,green,small,left,train
+img_0373.png,a tiny three-sided shape in green towards the right,triangle,green,small,right,train
+img_0374.png,"picture of a green three-sided shape, small, in the centre",triangle,green,small,centre,train
+img_0375.png,"picture of a green three-sided shape, large, at the right side",triangle,green,large,right,train
+img_0376.png,there is a emerald three-sided shape at the left side,triangle,green,large,left,train
+img_0377.png,little green three-sided shape,triangle,green,small,left,test
+img_0378.png,huge emerald triangle,triangle,green,large,right,train
+img_0379.png,"in the middle, a huge emerald triangle",triangle,green,large,centre,test
+img_0380.png,"picture of a green three-sided shape, big, on the right",triangle,green,large,right,train
+img_0381.png,"towards the right, a tiny green triangle",triangle,green,small,right,train
+img_0382.png,"at the right side, a large emerald three-sided shape",triangle,green,large,right,train
+img_0383.png,a little emerald triangle at the centre,triangle,green,small,centre,train
+img_0384.png,large blue triangle,triangle,blue,large,centre,train
+img_0385.png,little blue triangle,triangle,blue,small,centre,train
+img_0386.png,"at the left side, a large blue triangle",triangle,blue,large,left,train
+img_0387.png,"towards the left, a large azure triangle",triangle,blue,large,left,train
+img_0388.png,a big three-sided shape in azure at the left side,triangle,blue,large,left,train
+img_0389.png,large azure triangle,triangle,blue,large,centre,test
+img_0390.png,"at the left side, a large blue three-sided shape",triangle,blue,large,left,train
+img_0391.png,a large blue triangle on the left,triangle,blue,large,left,train
+img_0392.png,a huge azure three-sided shape at the left side,triangle,blue,large,left,test
+img_0393.png,a little triangle in azure at the right side,triangle,blue,small,right,train
+img_0394.png,a big azure three-sided shape towards the right,triangle,blue,large,right,test
+img_0395.png,there is a blue triangle at the right side,triangle,blue,small,right,train
+img_0396.png,there is a azure three-sided shape towards the right,triangle,blue,large,right,train
+img_0397.png,there is a azure triangle at the right side,triangle,blue,large,right,train
+img_0398.png,there is a blue triangle at the left side,triangle,blue,large,left,train
+img_0399.png,tiny azure triangle,triangle,blue,small,left,train
+img_0400.png,a huge three-sided shape in blue at the left side,triangle,blue,large,left,train
+img_0401.png,a huge azure triangle in the centre,triangle,blue,large,centre,train
+img_0402.png,big azure triangle,triangle,blue,large,centre,train
+img_0403.png,"picture of a blue triangle, little, towards the left",triangle,blue,small,left,test
+img_0404.png,"picture of a azure three-sided shape, large, at the centre",triangle,blue,large,centre,train
+img_0405.png,a little azure triangle at the centre,triangle,blue,small,centre,train
+img_0406.png,"picture of a azure triangle, little, on the left",triangle,blue,small,left,train
+img_0407.png,"picture of a azure three-sided shape, huge, in the centre",triangle,blue,large,centre,train
+img_0408.png,there is a blue three-sided shape at the left side,triangle,blue,large,left,train
+img_0409.png,large azure three-sided shape,triangle,blue,large,right,train
+img_0410.png,little blue three-sided shape,triangle,blue,small,left,train
+img_0411.png,"in the centre, a tiny azure three-sided shape",triangle,blue,small,centre,train
+img_0412.png,"towards the left, a large azure three-sided shape",triangle,blue,large,left,train
+img_0413.png,huge azure three-sided shape,triangle,blue,large,left,train
+img_0414.png,there is a blue triangle towards the right,triangle,blue,small,right,test
+img_0415.png,there is a azure triangle on the right,triangle,blue,large,right,train
+img_0416.png,big golden three-sided shape,triangle,yellow,large,centre,test
+img_0417.png,there is a golden three-sided shape in the middle,triangle,yellow,large,centre,test
+img_0418.png,"in the centre, a large golden triangle",triangle,yellow,large,centre,test
+img_0419.png,there is a yellow triangle towards the right,triangle,yellow,large,right,test
+img_0420.png,a little three-sided shape in golden on the right,triangle,yellow,small,right,test
+img_0421.png,a big golden triangle on the right,triangle,yellow,large,right,test
+img_0422.png,"picture of a yellow triangle, tiny, on the left",triangle,yellow,small,left,test
+img_0423.png,a huge yellow triangle on the left,triangle,yellow,large,left,test
+img_0424.png,a small yellow triangle on the left,triangle,yellow,small,left,test
+img_0425.png,"picture of a yellow three-sided shape, big, towards the right",triangle,yellow,large,right,test
+img_0426.png,a huge golden three-sided shape on the left,triangle,yellow,large,left,test
+img_0427.png,there is a yellow three-sided shape in the centre,triangle,yellow,small,centre,test
+img_0428.png,a huge yellow three-sided shape in the middle,triangle,yellow,large,centre,test
+img_0429.png,"picture of a yellow three-sided shape, big, towards the left",triangle,yellow,large,left,test
+img_0430.png,"picture of a yellow three-sided shape, big, on the left",triangle,yellow,large,left,test
+img_0431.png,big golden three-sided shape,triangle,yellow,large,centre,test
+img_0432.png,tiny yellow triangle,triangle,yellow,small,centre,test
+img_0433.png,"on the left, a huge golden three-sided shape",triangle,yellow,large,left,test
+img_0434.png,large yellow three-sided shape,triangle,yellow,large,left,test
+img_0435.png,small yellow triangle,triangle,yellow,small,centre,test
+img_0436.png,little yellow triangle,triangle,yellow,small,centre,test
+img_0437.png,there is a golden triangle at the right side,triangle,yellow,large,right,test
+img_0438.png,a big three-sided shape in yellow at the left side,triangle,yellow,large,left,test
+img_0439.png,a huge yellow triangle at the right side,triangle,yellow,large,right,test
+img_0440.png,big yellow three-sided shape,triangle,yellow,large,centre,test
+img_0441.png,a large three-sided shape in golden on the right,triangle,yellow,large,right,test
+img_0442.png,a large yellow three-sided shape in the centre,triangle,yellow,large,centre,test
+img_0443.png,a little golden three-sided shape at the centre,triangle,yellow,small,centre,test
+img_0444.png,"picture of a yellow triangle, tiny, towards the right",triangle,yellow,small,right,test
+img_0445.png,a huge golden triangle towards the left,triangle,yellow,large,left,test
+img_0446.png,"picture of a yellow triangle, huge, towards the right",triangle,yellow,large,right,test
+img_0447.png,"picture of a golden triangle, huge, towards the left",triangle,yellow,large,left,test
+img_0448.png,"picture of a purple triangle, little, at the right side",triangle,purple,small,right,train
+img_0449.png,there is a purple triangle at the centre,triangle,purple,small,centre,train
+img_0450.png,a small triangle in violet at the centre,triangle,purple,small,centre,train
+img_0451.png,a little three-sided shape in violet in the middle,triangle,purple,small,centre,train
+img_0452.png,a large triangle in purple on the right,triangle,purple,large,right,train
+img_0453.png,"at the centre, a small purple triangle",triangle,purple,small,centre,train
+img_0454.png,a little violet three-sided shape at the centre,triangle,purple,small,centre,train
+img_0455.png,"in the centre, a large purple triangle",triangle,purple,large,centre,test
+img_0456.png,"at the right side, a huge purple triangle",triangle,purple,large,right,test
+img_0457.png,a tiny purple three-sided shape at the left side,triangle,purple,small,left,train
+img_0458.png,small violet triangle,triangle,purple,small,right,train
+img_0459.png,big purple triangle,triangle,purple,large,right,train
+img_0460.png,"at the left side, a huge violet three-sided shape",triangle,purple,large,left,train
+img_0461.png,big purple three-sided shape,triangle,purple,large,centre,train
+img_0462.png,small violet triangle,triangle,purple,small,centre,train
+img_0463.png,a huge triangle in purple on the left,triangle,purple,large,left,train
+img_0464.png,big purple triangle,triangle,purple,large,centre,train
+img_0465.png,a little three-sided shape in purple towards the right,triangle,purple,small,right,train
+img_0466.png,"towards the right, a big violet triangle",triangle,purple,large,right,train
+img_0467.png,"picture of a purple triangle, small, on the right",triangle,purple,small,right,test
+img_0468.png,a little purple three-sided shape on the left,triangle,purple,small,left,train
+img_0469.png,a large violet triangle on the right,triangle,purple,large,right,train
+img_0470.png,there is a violet triangle towards the right,triangle,purple,small,right,train
+img_0471.png,"in the middle, a huge violet triangle",triangle,purple,large,centre,train
+img_0472.png,there is a purple triangle on the left,triangle,purple,small,left,train
+img_0473.png,"picture of a purple triangle, small, in the centre",triangle,purple,small,centre,test
+img_0474.png,"at the left side, a tiny violet three-sided shape",triangle,purple,small,left,test
+img_0475.png,small purple three-sided shape,triangle,purple,small,left,train
+img_0476.png,"at the centre, a large purple three-sided shape",triangle,purple,large,centre,train
+img_0477.png,"picture of a violet three-sided shape, little, on the left",triangle,purple,small,left,test
+img_0478.png,"on the right, a small violet triangle",triangle,purple,small,right,test
+img_0479.png,"picture of a purple triangle, small, in the centre",triangle,purple,small,centre,train
+img_0480.png,"on the right, a big red star",star,red,large,right,train
+img_0481.png,"towards the left, a small red five-pointed star",star,red,small,left,train
+img_0482.png,there is a scarlet star towards the left,star,red,large,left,train
+img_0483.png,"picture of a scarlet star, little, at the right side",star,red,small,right,test
+img_0484.png,a huge five-pointed star in red at the left side,star,red,large,left,train
+img_0485.png,little scarlet five-pointed star,star,red,small,left,train
+img_0486.png,there is a crimson star at the centre,star,red,small,centre,train
+img_0487.png,a little scarlet five-pointed star at the right side,star,red,small,right,train
+img_0488.png,"picture of a red star, large, on the right",star,red,large,right,train
+img_0489.png,a tiny star in scarlet on the right,star,red,small,right,train
+img_0490.png,there is a scarlet star towards the left,star,red,small,left,test
+img_0491.png,a big scarlet five-pointed star on the right,star,red,large,right,train
+img_0492.png,a huge red star in the middle,star,red,large,centre,train
+img_0493.png,large red star,star,red,large,centre,train
+img_0494.png,a small star in red in the middle,star,red,small,centre,train
+img_0495.png,there is a red star in the middle,star,red,large,centre,test
+img_0496.png,a big scarlet star at the left side,star,red,large,left,train
+img_0497.png,big scarlet five-pointed star,star,red,large,centre,train
+img_0498.png,tiny scarlet star,star,red,small,left,test
+img_0499.png,"in the centre, a tiny red star",star,red,small,centre,train
+img_0500.png,a huge crimson star towards the left,star,red,large,left,train
+img_0501.png,a tiny five-pointed star in scarlet at the right side,star,red,small,right,train
+img_0502.png,"picture of a crimson five-pointed star, little, on the right",star,red,small,right,train
+img_0503.png,a huge red star at the right side,star,red,large,right,train
+img_0504.png,there is a red five-pointed star at the centre,star,red,large,centre,train
+img_0505.png,large red star,star,red,large,right,train
+img_0506.png,"on the right, a small red star",star,red,small,right,train
+img_0507.png,"at the left side, a big crimson star",star,red,large,left,train
+img_0508.png,"picture of a crimson star, huge, in the centre",star,red,large,centre,train
+img_0509.png,there is a crimson star towards the left,star,red,small,left,train
+img_0510.png,"towards the right, a little crimson five-pointed star",star,red,small,right,train
+img_0511.png,huge scarlet star,star,red,large,left,train
+img_0512.png,a tiny five-pointed star in emerald at the right side,star,green,small,right,train
+img_0513.png,"on the left, a little emerald five-pointed star",star,green,small,left,train
+img_0514.png,there is a emerald star in the middle,star,green,small,centre,test
+img_0515.png,"in the middle, a tiny green five-pointed star",star,green,small,centre,train
+img_0516.png,a large five-pointed star in green in the centre,star,green,large,centre,train
+img_0517.png,there is a green five-pointed star towards the left,star,green,small,left,train
+img_0518.png,there is a emerald star on the right,star,green,large,right,train
+img_0519.png,there is a emerald star on the left,star,green,small,left,train
+img_0520.png,huge emerald star,star,green,large,left,train
+img_0521.png,a large green star on the left,star,green,large,left,test
+img_0522.png,"towards the right, a small green five-pointed star",star,green,small,right,train
+img_0523.png,there is a emerald star at the right side,star,green,large,right,test
+img_0524.png,a big five-pointed star in emerald towards the left,star,green,large,left,train
+img_0525.png,huge green star,star,green,large,right,train
+img_0526.png,"picture of a green star, large, in the centre",star,green,large,centre,train
+img_0527.png,huge emerald five-pointed star,star,green,large,centre,train
+img_0528.png,"picture of a emerald star, tiny, in the centre",star,green,small,centre,train
+img_0529.png,"on the left, a tiny green five-pointed star",star,green,small,left,train
+img_0530.png,"picture of a green star, huge, in the middle",star,green,large,centre,train
+img_0531.png,"picture of a emerald five-pointed star, large, towards the right",star,green,large,right,train
+img_0532.png,a small star in emerald in the middle,star,green,small,centre,train
+img_0533.png,tiny emerald star,star,green,small,centre,test
+img_0534.png,"in the middle, a little green five-pointed star",star,green,small,centre,train
+img_0535.png,"picture of a emerald star, tiny, at the left side",star,green,small,left,train
+img_0536.png,"on the left, a small emerald five-pointed star",star,green,small,left,train
+img_0537.png,large emerald five-pointed star,star,green,large,centre,test
+img_0538.png,huge green star,star,green,large,left,train
+img_0539.png,there is a emerald star on the right,star,green,small,right,test
+img_0540.png,a large star in green towards the left,star,green,large,left,train
+img_0541.png,a huge emerald five-pointed star towards the right,star,green,large,right,train
+img_0542.png,"at the left side, a large green star",star,green,large,left,test
+img_0543.png,"picture of a green star, big, on the left",star,green,large,left,train
+img_0544.png,"at the centre, a large azure five-pointed star",star,blue,large,centre,train
+img_0545.png,a small star in azure at the right side,star,blue,small,right,test
+img_0546.png,tiny blue five-pointed star,star,blue,small,right,test
+img_0547.png,"picture of a blue star, small, towards the right",star,blue,small,right,train
+img_0548.png,"at the centre, a large azure star",star,blue,large,centre,train
+img_0549.png,"picture of a azure five-pointed star, huge, in the centre",star,blue,large,centre,train
+img_0550.png,there is a blue five-pointed star towards the left,star,blue,small,left,train
+img_0551.png,a little azure five-pointed star on the right,star,blue,small,right,train
+img_0552.png,a big star in blue at the left side,star,blue,large,left,train
+img_0553.png,a huge blue five-pointed star in the centre,star,blue,large,centre,train
+img_0554.png,a large blue five-pointed star towards the left,star,blue,large,left,train
+img_0555.png,a big five-pointed star in blue at the right side,star,blue,large,right,test
+img_0556.png,"at the centre, a big blue five-pointed star",star,blue,large,centre,train
+img_0557.png,a large blue five-pointed star at the left side,star,blue,large,left,train
+img_0558.png,"picture of a azure star, small, towards the left",star,blue,small,left,test
+img_0559.png,a big five-pointed star in blue on the right,star,blue,large,right,test
+img_0560.png,there is a blue five-pointed star at the centre,star,blue,large,centre,train
+img_0561.png,"picture of a blue five-pointed star, little, at the right side",star,blue,small,right,train
+img_0562.png,a huge five-pointed star in blue on the right,star,blue,large,right,train
+img_0563.png,a tiny blue five-pointed star on the left,star,blue,small,left,train
+img_0564.png,"picture of a azure five-pointed star, tiny, at the centre",star,blue,small,centre,train
+img_0565.png,there is a azure five-pointed star on the left,star,blue,large,left,train
+img_0566.png,"at the right side, a huge blue star",star,blue,large,right,train
+img_0567.png,"picture of a azure star, big, towards the right",star,blue,large,right,train
+img_0568.png,a huge star in blue on the left,star,blue,large,left,train
+img_0569.png,a little five-pointed star in azure towards the left,star,blue,small,left,train
+img_0570.png,"at the centre, a small azure star",star,blue,small,centre,train
+img_0571.png,"on the left, a small blue star",star,blue,small,left,train
+img_0572.png,there is a azure star on the right,star,blue,large,right,train
+img_0573.png,"picture of a blue five-pointed star, tiny, at the left side",star,blue,small,left,train
+img_0574.png,"on the left, a small blue star",star,blue,small,left,test
+img_0575.png,huge blue star,star,blue,large,right,train
+img_0576.png,a huge star in yellow at the centre,star,yellow,large,centre,train
+img_0577.png,tiny yellow star,star,yellow,small,centre,train
+img_0578.png,"at the left side, a large yellow star",star,yellow,large,left,train
+img_0579.png,little yellow star,star,yellow,small,left,train
+img_0580.png,a large yellow five-pointed star towards the right,star,yellow,large,right,train
+img_0581.png,"picture of a golden star, tiny, at the centre",star,yellow,small,centre,train
+img_0582.png,a little yellow five-pointed star on the left,star,yellow,small,left,train
+img_0583.png,little yellow star,star,yellow,small,left,train
+img_0584.png,a huge yellow five-pointed star at the centre,star,yellow,large,centre,test
+img_0585.png,a small five-pointed star in yellow towards the right,star,yellow,small,right,train
+img_0586.png,"picture of a golden star, little, at the centre",star,yellow,small,centre,train
+img_0587.png,there is a golden star at the centre,star,yellow,small,centre,train
+img_0588.png,there is a golden star towards the left,star,yellow,large,left,test
+img_0589.png,"at the left side, a small yellow star",star,yellow,small,left,test
+img_0590.png,small golden five-pointed star,star,yellow,small,centre,test
+img_0591.png,"towards the left, a small golden five-pointed star",star,yellow,small,left,train
+img_0592.png,a tiny five-pointed star in yellow at the right side,star,yellow,small,right,train
+img_0593.png,"on the left, a small yellow five-pointed star",star,yellow,small,left,test
+img_0594.png,a huge five-pointed star in golden on the left,star,yellow,large,left,train
+img_0595.png,a large star in yellow on the right,star,yellow,large,right,train
+img_0596.png,"at the centre, a little yellow five-pointed star",star,yellow,small,centre,test
+img_0597.png,"picture of a yellow star, small, at the left side",star,yellow,small,left,train
+img_0598.png,tiny golden five-pointed star,star,yellow,small,right,train
+img_0599.png,little yellow star,star,yellow,small,right,train
+img_0600.png,there is a yellow five-pointed star at the left side,star,yellow,small,left,train
+img_0601.png,a tiny five-pointed star in yellow towards the right,star,yellow,small,right,test
+img_0602.png,a big yellow five-pointed star at the centre,star,yellow,large,centre,train
+img_0603.png,a tiny star in yellow in the middle,star,yellow,small,centre,test
+img_0604.png,there is a golden five-pointed star in the middle,star,yellow,large,centre,train
+img_0605.png,"towards the right, a small yellow five-pointed star",star,yellow,small,right,test
+img_0606.png,a big yellow star at the left side,star,yellow,large,left,test
+img_0607.png,there is a golden five-pointed star towards the left,star,yellow,small,left,train
+img_0608.png,huge violet five-pointed star,star,purple,large,right,test
+img_0609.png,"at the centre, a small violet five-pointed star",star,purple,small,centre,test
+img_0610.png,"on the left, a little purple star",star,purple,small,left,test
+img_0611.png,"picture of a violet star, small, at the left side",star,purple,small,left,test
+img_0612.png,"towards the right, a huge purple five-pointed star",star,purple,large,right,test
+img_0613.png,"picture of a violet five-pointed star, tiny, towards the right",star,purple,small,right,test
+img_0614.png,"on the right, a tiny violet five-pointed star",star,purple,small,right,test
+img_0615.png,a huge five-pointed star in purple towards the left,star,purple,large,left,test
+img_0616.png,"picture of a violet star, tiny, on the left",star,purple,small,left,test
+img_0617.png,"at the left side, a large violet five-pointed star",star,purple,large,left,test
+img_0618.png,a tiny purple star at the left side,star,purple,small,left,test
+img_0619.png,"on the left, a little purple star",star,purple,small,left,test
+img_0620.png,"at the right side, a huge violet five-pointed star",star,purple,large,right,test
+img_0621.png,a large star in purple in the middle,star,purple,large,centre,test
+img_0622.png,little purple star,star,purple,small,right,test
+img_0623.png,large purple five-pointed star,star,purple,large,centre,test
+img_0624.png,huge purple five-pointed star,star,purple,large,centre,test
+img_0625.png,there is a purple five-pointed star towards the left,star,purple,large,left,test
+img_0626.png,a large violet five-pointed star in the centre,star,purple,large,centre,test
+img_0627.png,"at the left side, a tiny violet star",star,purple,small,left,test
+img_0628.png,"towards the left, a huge violet five-pointed star",star,purple,large,left,test
+img_0629.png,a huge star in violet towards the left,star,purple,large,left,test
+img_0630.png,a little purple five-pointed star towards the right,star,purple,small,right,test
+img_0631.png,a little five-pointed star in purple at the right side,star,purple,small,right,test
+img_0632.png,"picture of a violet five-pointed star, tiny, on the right",star,purple,small,right,test
+img_0633.png,a big star in violet towards the left,star,purple,large,left,test
+img_0634.png,a large star in violet towards the right,star,purple,large,right,test
+img_0635.png,a small violet star in the centre,star,purple,small,centre,test
+img_0636.png,a small purple five-pointed star on the right,star,purple,small,right,test
+img_0637.png,"at the right side, a little purple five-pointed star",star,purple,small,right,test
+img_0638.png,"on the right, a little purple five-pointed star",star,purple,small,right,test
+img_0639.png,small violet five-pointed star,star,purple,small,left,test
+img_0640.png,there is a scarlet plus sign on the right,cross,red,large,right,test
+img_0641.png,there is a red plus sign towards the right,cross,red,small,right,test
+img_0642.png,"picture of a crimson plus sign, little, at the centre",cross,red,small,centre,train
+img_0643.png,"in the centre, a large scarlet cross",cross,red,large,centre,train
+img_0644.png,"picture of a crimson cross, big, on the right",cross,red,large,right,test
+img_0645.png,there is a crimson cross towards the right,cross,red,large,right,train
+img_0646.png,there is a crimson plus sign on the left,cross,red,small,left,train
+img_0647.png,a tiny crimson cross towards the right,cross,red,small,right,train
+img_0648.png,"in the middle, a big scarlet cross",cross,red,large,centre,train
+img_0649.png,a little cross in red in the centre,cross,red,small,centre,train
+img_0650.png,"at the right side, a large red cross",cross,red,large,right,train
+img_0651.png,"picture of a red plus sign, huge, on the right",cross,red,large,right,train
+img_0652.png,"towards the right, a small red plus sign",cross,red,small,right,train
+img_0653.png,"picture of a scarlet plus sign, tiny, at the centre",cross,red,small,centre,train
+img_0654.png,big red plus sign,cross,red,large,right,train
+img_0655.png,large scarlet plus sign,cross,red,large,left,train
+img_0656.png,a big cross in red in the centre,cross,red,large,centre,test
+img_0657.png,a huge red plus sign towards the right,cross,red,large,right,train
+img_0658.png,there is a crimson cross in the centre,cross,red,small,centre,train
+img_0659.png,big scarlet cross,cross,red,large,centre,train
+img_0660.png,"picture of a crimson cross, small, on the right",cross,red,small,right,train
+img_0661.png,"in the middle, a large scarlet cross",cross,red,large,centre,test
+img_0662.png,"in the middle, a tiny red cross",cross,red,small,centre,train
+img_0663.png,"picture of a crimson cross, tiny, at the left side",cross,red,small,left,train
+img_0664.png,there is a crimson plus sign on the left,cross,red,small,left,train
+img_0665.png,huge scarlet plus sign,cross,red,large,centre,train
+img_0666.png,"picture of a crimson cross, huge, at the right side",cross,red,large,right,train
+img_0667.png,"picture of a red plus sign, small, in the centre",cross,red,small,centre,train
+img_0668.png,a little crimson plus sign on the left,cross,red,small,left,train
+img_0669.png,a little plus sign in red towards the left,cross,red,small,left,train
+img_0670.png,large scarlet plus sign,cross,red,large,left,test
+img_0671.png,a big crimson cross towards the left,cross,red,large,left,train
+img_0672.png,a small plus sign in green in the middle,cross,green,small,centre,train
+img_0673.png,"towards the left, a huge emerald plus sign",cross,green,large,left,train
+img_0674.png,a huge cross in green at the left side,cross,green,large,left,train
+img_0675.png,a huge green cross on the right,cross,green,large,right,train
+img_0676.png,"picture of a green plus sign, big, towards the left",cross,green,large,left,train
+img_0677.png,big green plus sign,cross,green,large,centre,train
+img_0678.png,a big plus sign in green at the right side,cross,green,large,right,train
+img_0679.png,a tiny green plus sign in the centre,cross,green,small,centre,train
+img_0680.png,large emerald plus sign,cross,green,large,centre,test
+img_0681.png,there is a emerald plus sign on the left,cross,green,large,left,train
+img_0682.png,a tiny plus sign in green in the centre,cross,green,small,centre,train
+img_0683.png,a tiny cross in green at the centre,cross,green,small,centre,train
+img_0684.png,tiny emerald cross,cross,green,small,right,train
+img_0685.png,"picture of a emerald plus sign, huge, at the centre",cross,green,large,centre,train
+img_0686.png,there is a green plus sign towards the left,cross,green,large,left,train
+img_0687.png,little green cross,cross,green,small,right,train
+img_0688.png,a huge cross in green at the right side,cross,green,large,right,test
+img_0689.png,"picture of a green plus sign, large, in the middle",cross,green,large,centre,train
+img_0690.png,"picture of a green plus sign, tiny, towards the left",cross,green,small,left,test
+img_0691.png,a huge green cross at the left side,cross,green,large,left,test
+img_0692.png,a tiny cross in emerald on the left,cross,green,small,left,test
+img_0693.png,"picture of a green plus sign, tiny, at the centre",cross,green,small,centre,train
+img_0694.png,a tiny emerald plus sign on the left,cross,green,small,left,train
+img_0695.png,large emerald cross,cross,green,large,centre,train
+img_0696.png,"at the centre, a tiny emerald cross",cross,green,small,centre,train
+img_0697.png,a tiny plus sign in emerald at the centre,cross,green,small,centre,train
+img_0698.png,a large green plus sign in the middle,cross,green,large,centre,train
+img_0699.png,a little plus sign in green towards the right,cross,green,small,right,train
+img_0700.png,a huge plus sign in green on the left,cross,green,large,left,train
+img_0701.png,a large cross in emerald towards the right,cross,green,large,right,train
+img_0702.png,tiny emerald plus sign,cross,green,small,left,train
+img_0703.png,small green plus sign,cross,green,small,right,train
+img_0704.png,tiny blue plus sign,cross,blue,small,right,test
+img_0705.png,"picture of a azure cross, huge, on the left",cross,blue,large,left,train
+img_0706.png,a large azure plus sign on the left,cross,blue,large,left,train
+img_0707.png,a huge cross in azure on the right,cross,blue,large,right,test
+img_0708.png,"on the left, a little blue plus sign",cross,blue,small,left,train
+img_0709.png,a little azure plus sign towards the left,cross,blue,small,left,train
+img_0710.png,a large azure plus sign in the middle,cross,blue,large,centre,train
+img_0711.png,"at the right side, a little azure cross",cross,blue,small,right,train
+img_0712.png,there is a azure cross on the right,cross,blue,small,right,train
+img_0713.png,little blue cross,cross,blue,small,centre,train
+img_0714.png,a tiny blue plus sign at the centre,cross,blue,small,centre,train
+img_0715.png,"at the centre, a small azure cross",cross,blue,small,centre,train
+img_0716.png,"in the middle, a huge blue cross",cross,blue,large,centre,train
+img_0717.png,"picture of a blue plus sign, huge, on the right",cross,blue,large,right,train
+img_0718.png,"picture of a blue plus sign, tiny, in the centre",cross,blue,small,centre,train
+img_0719.png,there is a azure cross in the middle,cross,blue,small,centre,train
+img_0720.png,"picture of a azure plus sign, huge, at the left side",cross,blue,large,left,train
+img_0721.png,a huge blue cross at the right side,cross,blue,large,right,train
+img_0722.png,a tiny cross in blue at the right side,cross,blue,small,right,train
+img_0723.png,a tiny blue plus sign on the right,cross,blue,small,right,train
+img_0724.png,a tiny plus sign in blue at the right side,cross,blue,small,right,train
+img_0725.png,large blue plus sign,cross,blue,large,centre,train
+img_0726.png,little blue plus sign,cross,blue,small,right,train
+img_0727.png,"picture of a blue plus sign, big, in the middle",cross,blue,large,centre,train
+img_0728.png,"towards the left, a large blue cross",cross,blue,large,left,train
+img_0729.png,big azure cross,cross,blue,large,centre,train
+img_0730.png,"picture of a azure cross, little, at the left side",cross,blue,small,left,train
+img_0731.png,"towards the left, a large azure plus sign",cross,blue,large,left,test
+img_0732.png,small azure plus sign,cross,blue,small,centre,train
+img_0733.png,big azure cross,cross,blue,large,right,test
+img_0734.png,a small blue cross in the centre,cross,blue,small,centre,test
+img_0735.png,"picture of a blue plus sign, little, on the right",cross,blue,small,right,train
+img_0736.png,a large cross in yellow at the right side,cross,yellow,large,right,train
+img_0737.png,a small cross in yellow on the right,cross,yellow,small,right,train
+img_0738.png,"on the right, a large golden cross",cross,yellow,large,right,test
+img_0739.png,there is a golden plus sign at the centre,cross,yellow,large,centre,train
+img_0740.png,there is a yellow cross on the right,cross,yellow,small,right,train
+img_0741.png,a big plus sign in golden towards the right,cross,yellow,large,right,train
+img_0742.png,"at the centre, a huge golden cross",cross,yellow,large,centre,train
+img_0743.png,a tiny plus sign in golden on the left,cross,yellow,small,left,train
+img_0744.png,"picture of a yellow plus sign, little, at the right side",cross,yellow,small,right,train
+img_0745.png,a little golden plus sign towards the right,cross,yellow,small,right,train
+img_0746.png,"in the middle, a huge yellow plus sign",cross,yellow,large,centre,train
+img_0747.png,huge yellow plus sign,cross,yellow,large,centre,test
+img_0748.png,a small yellow cross towards the left,cross,yellow,small,left,train
+img_0749.png,big yellow cross,cross,yellow,large,centre,train
+img_0750.png,a tiny golden cross at the right side,cross,yellow,small,right,train
+img_0751.png,little yellow plus sign,cross,yellow,small,right,test
+img_0752.png,"picture of a yellow plus sign, tiny, at the centre",cross,yellow,small,centre,test
+img_0753.png,there is a golden cross at the left side,cross,yellow,large,left,train
+img_0754.png,there is a yellow plus sign in the middle,cross,yellow,small,centre,train
+img_0755.png,a small yellow cross towards the left,cross,yellow,small,left,train
+img_0756.png,there is a golden cross at the right side,cross,yellow,large,right,train
+img_0757.png,a tiny cross in yellow on the left,cross,yellow,small,left,train
+img_0758.png,a big cross in golden at the centre,cross,yellow,large,centre,test
+img_0759.png,a huge plus sign in golden towards the right,cross,yellow,large,right,train
+img_0760.png,"in the middle, a huge yellow plus sign",cross,yellow,large,centre,train
+img_0761.png,"in the centre, a small yellow cross",cross,yellow,small,centre,train
+img_0762.png,there is a golden plus sign on the right,cross,yellow,large,right,test
+img_0763.png,big golden plus sign,cross,yellow,large,centre,test
+img_0764.png,a large cross in golden in the centre,cross,yellow,large,centre,train
+img_0765.png,"at the right side, a little golden cross",cross,yellow,small,right,test
+img_0766.png,a huge yellow cross towards the right,cross,yellow,large,right,test
+img_0767.png,"picture of a yellow plus sign, huge, towards the left",cross,yellow,large,left,train
+img_0768.png,small purple cross,cross,purple,small,left,train
+img_0769.png,"in the centre, a large violet cross",cross,purple,large,centre,train
+img_0770.png,tiny violet cross,cross,purple,small,left,train
+img_0771.png,big violet cross,cross,purple,large,left,train
+img_0772.png,there is a purple plus sign in the centre,cross,purple,large,centre,train
+img_0773.png,a big purple cross towards the right,cross,purple,large,right,train
+img_0774.png,a tiny plus sign in violet in the middle,cross,purple,small,centre,train
+img_0775.png,big violet cross,cross,purple,large,centre,train
+img_0776.png,huge violet plus sign,cross,purple,large,centre,train
+img_0777.png,little purple cross,cross,purple,small,left,test
+img_0778.png,a tiny violet cross on the left,cross,purple,small,left,train
+img_0779.png,a huge violet plus sign at the centre,cross,purple,large,centre,train
+img_0780.png,"picture of a violet plus sign, small, at the centre",cross,purple,small,centre,test
+img_0781.png,there is a purple plus sign in the middle,cross,purple,small,centre,train
+img_0782.png,"picture of a purple cross, large, at the centre",cross,purple,large,centre,train
+img_0783.png,little purple cross,cross,purple,small,right,train
+img_0784.png,a huge cross in purple towards the right,cross,purple,large,right,test
+img_0785.png,small violet plus sign,cross,purple,small,left,train
+img_0786.png,there is a purple plus sign on the left,cross,purple,large,left,train
+img_0787.png,"picture of a purple plus sign, little, on the left",cross,purple,small,left,train
+img_0788.png,there is a violet plus sign in the centre,cross,purple,small,centre,test
+img_0789.png,"picture of a violet plus sign, huge, towards the right",cross,purple,large,right,test
+img_0790.png,a large cross in violet on the left,cross,purple,large,left,train
+img_0791.png,a little cross in violet at the centre,cross,purple,small,centre,train
+img_0792.png,"on the left, a big violet cross",cross,purple,large,left,train
+img_0793.png,"picture of a purple cross, tiny, in the centre",cross,purple,small,centre,train
+img_0794.png,a small cross in violet towards the right,cross,purple,small,right,train
+img_0795.png,a tiny plus sign in purple on the right,cross,purple,small,right,train
+img_0796.png,there is a violet plus sign at the right side,cross,purple,large,right,test
+img_0797.png,"towards the right, a small violet cross",cross,purple,small,right,train
+img_0798.png,big violet plus sign,cross,purple,large,left,train
+img_0799.png,there is a violet cross at the right side,cross,purple,large,right,test
